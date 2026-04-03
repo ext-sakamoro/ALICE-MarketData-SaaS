@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_MARKETDATA
+name: alice-marketdata
 description: ALICE MarketData
 type: application
 version: 0.1.0
